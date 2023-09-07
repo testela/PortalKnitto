@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_SAKURA 1Stock (Kg) 0.00Aksesoris Tidak Ada</name>
+   <tag></tag>
+   <elementGuidId>253b40ca-e87f-4c82-9a17-14bee7841072</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.I.g.k.i.B.relative</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[15]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>54960d22-9cba-4fe6-a882-09684a55e8db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>97ee691f-f5eb-482e-8bb2-e92bf6f4c2b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>I g k i B relative</value>
+      <webElementGuid>e621f032-f546-4d9a-b967-a7f034cdd940</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SAKURA [1]Stock (Kg): 0.00Aksesoris: Tidak Ada</value>
+      <webElementGuid>7e8e48c6-e0e0-4b9c-8a0b-bca62457056b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;a&quot;]/div[4]/div[@class=&quot;px-[34px]&quot;]/div[1]/button[@class=&quot;I g k i B relative&quot;]</value>
+      <webElementGuid>c361236f-d1d7-4f52-996c-9363433cee2e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[15]</value>
+      <webElementGuid>2c0ff5dc-6fda-42b2-a704-1ee43a6a72b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div[4]/div[3]/div/button</value>
+      <webElementGuid>86ba7003-01b8-4218-8466-94132efc3bc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='COMBED 30S KOALA'])[2]/following::button[1]</value>
+      <webElementGuid>06fb7d77-456b-4988-b6c5-449bc2f687ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BODY SIZE,TC'])[1]/following::button[4]</value>
+      <webElementGuid>227aa462-2c24-474c-a0a2-8a6c65266012</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[3]/div/button</value>
+      <webElementGuid>ced4d7a8-8c5a-4081-a4bb-435e268f62a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'SAKURA [1]Stock (Kg): 0.00Aksesoris: Tidak Ada' or . = 'SAKURA [1]Stock (Kg): 0.00Aksesoris: Tidak Ada')]</value>
+      <webElementGuid>f6e4007a-5e47-4bde-a377-af78af7fa5e8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

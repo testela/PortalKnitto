@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Batal (ESC)</name>
+   <tag></tag>
+   <elementGuidId>2ae21399-77fd-48e8-a63c-3e9fdf699ce5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.button.steel-blue-100</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/section/main/div/div[4]/div/div[3]/div/button/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>463b8319-24a9-4ca8-86cc-b581fc39c0be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button steel-blue-100</value>
+      <webElementGuid>df589c1c-f8ab-4a6f-ab2a-a92d99701626</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Batal (ESC)</value>
+      <webElementGuid>88d86e12-8ed0-460b-80b0-0b473edae700</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/section[@class=&quot;ant-layout layout css-p8cx3h&quot;]/main[@class=&quot;ant-layout-content&quot;]/div[@class=&quot;site-layout-content&quot;]/div[@class=&quot;_backDrop_xj5w5_1&quot;]/div[@class=&quot;_containerModal_xj5w5_29&quot;]/div[@class=&quot;_bottom_xj5w5_78&quot;]/div[1]/button[@class=&quot;ant-btn css-p8cx3h ant-btn-link&quot;]/p[@class=&quot;button steel-blue-100&quot;]</value>
+      <webElementGuid>1cb660a7-91d9-4167-b623-db597a24c6fb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/section/main/div/div[4]/div/div[3]/div/button/p</value>
+      <webElementGuid>e0fbaa3a-95af-4074-8eb4-f0d840db1379</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kode Verifikasi'])[1]/following::p[1]</value>
+      <webElementGuid>dd2c67ea-8553-40fa-8102-3869546a3607</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No Roll'])[2]/following::p[1]</value>
+      <webElementGuid>89eebfdb-e6f4-48e8-b77b-3ec6462a0972</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Batal (ESC)']/parent::*</value>
+      <webElementGuid>b6f0895f-d8b4-4e8f-b000-9f36be847c09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/p</value>
+      <webElementGuid>2d8ac31e-1aeb-41f0-8843-d2f9ae286bde</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Batal (ESC)' or . = 'Batal (ESC)')]</value>
+      <webElementGuid>379784f3-d544-440e-80c3-333254667333</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

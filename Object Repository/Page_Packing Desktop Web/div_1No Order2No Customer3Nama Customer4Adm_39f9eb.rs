@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_1No Order2No Customer3Nama Customer4Adm_39f9eb</name>
+   <tag></tag>
+   <elementGuidId>a69b4fb9-f7fa-49c3-9c43-b11dd88d3d0e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ant-card-body</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/section/main/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>17660a6a-5907-4c07-bd72-050100cf7334</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-card-body</value>
+      <webElementGuid>4be7ee17-430b-4fe8-b6a6-1c4560f5e24e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1No Order2No Customer3Nama Customer4Admin5Jenis6Packing7Ekspedisi8Jumlah9OperatorOH080322213374PT. KARTIKA SINAR MULIApupu lestariTOKOLANGSUNG KIRIMCUSTOMER0 of 52HERDINOH090322067374PT. KARTIKA SINAR MULIAYORATOKOLANGSUNG KIRIMCUSTOMER5 of 42OH1212220089058BENNYFachriTOKOKARUNGCUSTOMER0 of 1BSMOH2012220038586TES ITFAUZANTOKOKARUNGCUSTOMER0 of 1RAMSZAOH1101230081144TES4FAUZANTOKOLANGSUNG KIRIMCUSTOMER0 of 1BUNGAOH1301230021179AJI CIMAHIFAUZANTOKOLANGSUNG KIRIMCUSTOMER0 of 1OH20012301165984TESSS TIM ITdata main hlsTOKOLANGSUNG KIRIMINDAH CARGO0 of 1OH26012301565984TESSS TIM ITBUNGATOKOLANGSUNG KIRIMINDAH CARGO0 of 1OH26012302065984TESSS TIM ITBUNGATOKOLANGSUNG KIRIMINDAH CARGO0 of 2ITOH2801230028336TEST FACHRIFIKITOKOLANGSUNG KIRIMCUSTOMER0 of 1OH2801230031144TES4FIKITOKOLANGSUNG KIRIMINDAH CARGO0 of 1Loading</value>
+      <webElementGuid>0f8132bf-159b-4a02-b2a7-7168686dc0ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/section[@class=&quot;ant-layout layout css-p8cx3h&quot;]/main[@class=&quot;ant-layout-content&quot;]/div[@class=&quot;site-layout-content&quot;]/div[@class=&quot;ant-card css-p8cx3h&quot;]/div[@class=&quot;ant-card-body&quot;]</value>
+      <webElementGuid>297a7adb-d3ed-4473-a649-183f6d709707</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/section/main/div/div/div</value>
+      <webElementGuid>06a8f315-e971-48c4-bb21-a038679d2f0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Packing Komplit'])[1]/following::div[7]</value>
+      <webElementGuid>ca458b2e-0e06-4fd6-84ee-7197f1927ff7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div</value>
+      <webElementGuid>6668dd4b-4ab6-4a14-80f1-328ba8ad3d6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '1No Order2No Customer3Nama Customer4Admin5Jenis6Packing7Ekspedisi8Jumlah9OperatorOH080322213374PT. KARTIKA SINAR MULIApupu lestariTOKOLANGSUNG KIRIMCUSTOMER0 of 52HERDINOH090322067374PT. KARTIKA SINAR MULIAYORATOKOLANGSUNG KIRIMCUSTOMER5 of 42OH1212220089058BENNYFachriTOKOKARUNGCUSTOMER0 of 1BSMOH2012220038586TES ITFAUZANTOKOKARUNGCUSTOMER0 of 1RAMSZAOH1101230081144TES4FAUZANTOKOLANGSUNG KIRIMCUSTOMER0 of 1BUNGAOH1301230021179AJI CIMAHIFAUZANTOKOLANGSUNG KIRIMCUSTOMER0 of 1OH20012301165984TESSS TIM ITdata main hlsTOKOLANGSUNG KIRIMINDAH CARGO0 of 1OH26012301565984TESSS TIM ITBUNGATOKOLANGSUNG KIRIMINDAH CARGO0 of 1OH26012302065984TESSS TIM ITBUNGATOKOLANGSUNG KIRIMINDAH CARGO0 of 2ITOH2801230028336TEST FACHRIFIKITOKOLANGSUNG KIRIMCUSTOMER0 of 1OH2801230031144TES4FIKITOKOLANGSUNG KIRIMINDAH CARGO0 of 1Loading' or . = '1No Order2No Customer3Nama Customer4Admin5Jenis6Packing7Ekspedisi8Jumlah9OperatorOH080322213374PT. KARTIKA SINAR MULIApupu lestariTOKOLANGSUNG KIRIMCUSTOMER0 of 52HERDINOH090322067374PT. KARTIKA SINAR MULIAYORATOKOLANGSUNG KIRIMCUSTOMER5 of 42OH1212220089058BENNYFachriTOKOKARUNGCUSTOMER0 of 1BSMOH2012220038586TES ITFAUZANTOKOKARUNGCUSTOMER0 of 1RAMSZAOH1101230081144TES4FAUZANTOKOLANGSUNG KIRIMCUSTOMER0 of 1BUNGAOH1301230021179AJI CIMAHIFAUZANTOKOLANGSUNG KIRIMCUSTOMER0 of 1OH20012301165984TESSS TIM ITdata main hlsTOKOLANGSUNG KIRIMINDAH CARGO0 of 1OH26012301565984TESSS TIM ITBUNGATOKOLANGSUNG KIRIMINDAH CARGO0 of 1OH26012302065984TESSS TIM ITBUNGATOKOLANGSUNG KIRIMINDAH CARGO0 of 2ITOH2801230028336TEST FACHRIFIKITOKOLANGSUNG KIRIMCUSTOMER0 of 1OH2801230031144TES4FIKITOKOLANGSUNG KIRIMINDAH CARGO0 of 1Loading')]</value>
+      <webElementGuid>f8b45e6e-0e3e-4d16-aa89-ff549b055330</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

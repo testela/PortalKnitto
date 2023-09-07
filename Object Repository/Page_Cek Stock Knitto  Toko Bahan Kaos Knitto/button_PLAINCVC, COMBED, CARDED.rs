@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_PLAINCVC, COMBED, CARDED</name>
+   <tag></tag>
+   <elementGuidId>35ee4e7d-bd45-41f9-bcff-3d32c2f25a85</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[5]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d94e0a16-108e-45fe-ae8d-16d50625bce6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>601783b4-6009-405f-ad3a-88c7926d650b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>I g k i q z-10</value>
+      <webElementGuid>a03c0974-b161-46a1-b5e4-5d6755af0b05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>PLAINCVC, COMBED, CARDED</value>
+      <webElementGuid>b0837423-2231-4f4c-ba20-701dd318885b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;a&quot;]/div[3]/div[@class=&quot;px-6&quot;]/button[@class=&quot;I g k i q z-10&quot;]</value>
+      <webElementGuid>03e9cb22-b2f4-4ba9-ab84-077f7098842f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[5]</value>
+      <webElementGuid>dd193813-6072-4893-876b-b77fc9c212e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div[3]/div[3]/button[2]</value>
+      <webElementGuid>e81dd0f2-f12b-4712-badd-b9dd3001c656</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='COMBED 30S KOALA'])[1]/following::button[1]</value>
+      <webElementGuid>9f3a8a84-17fc-4b66-9e76-dad9be3c78fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ANIMAL SERIES'])[1]/following::button[2]</value>
+      <webElementGuid>0a1ffd55-cc37-406f-b027-e4513382234e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button[2]</value>
+      <webElementGuid>f613644b-38b9-42c2-9519-70efe051b826</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'PLAINCVC, COMBED, CARDED' or . = 'PLAINCVC, COMBED, CARDED')]</value>
+      <webElementGuid>aff20ca1-1ae1-431f-ba3a-15e15e48e7ca</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

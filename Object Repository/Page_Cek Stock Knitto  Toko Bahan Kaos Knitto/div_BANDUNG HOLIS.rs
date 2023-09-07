@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_BANDUNG HOLIS</name>
+   <tag></tag>
+   <elementGuidId>b50ab8d3-c58f-40df-a12b-8aa51c8a6a55</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.T.css-t3ipsp-control</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/div[2]/div[4]/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ecbd664e-a321-4fcd-8b89-97b054f65d32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>T css-t3ipsp-control</value>
+      <webElementGuid>757999c5-c952-4c62-b188-80bf24925099</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>BANDUNG: HOLIS</value>
+      <webElementGuid>7804b613-b0ec-4926-a32a-e01b508f3c22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;a&quot;]/div[@class=&quot;d&quot;]/div[@class=&quot;Q ml-6 mr-6 self-stretch&quot;]/div[@class=&quot;flex-1 min-w-0 cursor-pointer css-b62m3t-container&quot;]/div[@class=&quot;T css-t3ipsp-control&quot;]</value>
+      <webElementGuid>3e41e460-dac5-43d8-9d71-1731ded65133</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div[2]/div[4]/div[2]/div</value>
+      <webElementGuid>4a8f29d6-0c46-4d0c-9692-4866aab21739</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cabang'])[1]/following::div[2]</value>
+      <webElementGuid>252609c1-831d-4ba8-9a43-a0cd2b424dfa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Check Stock Kain'])[1]/following::div[5]</value>
+      <webElementGuid>20f44c8d-b1dd-4204-a7d1-2fcb38e68f52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PRINTING'])[1]/preceding::div[7]</value>
+      <webElementGuid>a5a52b50-ddfe-44cf-a7c9-2aeb0554ce12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/div</value>
+      <webElementGuid>7aaa8358-6389-4377-a0fa-a5c46725994e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'BANDUNG: HOLIS' or . = 'BANDUNG: HOLIS')]</value>
+      <webElementGuid>459f70cd-58db-4f50-a949-36267f1b55c9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

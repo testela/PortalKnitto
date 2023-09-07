@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_OH07092300465984TESSS TIM ITellaTOKOLAN_cfec4b</name>
+   <tag></tag>
+   <elementGuidId>11180572-e93d-43cb-b9a0-26e59a15d9af</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.inovua-react-scroll-container__wrapper > div > div</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/section/main/div/div/div/div[2]/div/div/div[2]/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e6bc1a12-5974-4d3c-8704-d0a1548638f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-name</name>
+      <type>Main</type>
+      <value>view</value>
+      <webElementGuid>765fe873-9ed3-4e48-8f43-fb279b912abe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>OH07092300465984TESSS TIM ITellaTOKOLANGSUNG KIRIMCUSTOMER0 of 1ELLA</value>
+      <webElementGuid>39015ada-8b7d-4aea-af4d-b2106e5535e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/section[@class=&quot;ant-layout layout css-p8cx3h&quot;]/main[@class=&quot;ant-layout-content&quot;]/div[@class=&quot;site-layout-content&quot;]/div[@class=&quot;ant-card css-p8cx3h&quot;]/div[@class=&quot;ant-card-body&quot;]/div[@class=&quot;InovuaReactDataGrid InovuaReactDataGrid--theme-default-light InovuaReactDataGrid--columns-ready InovuaReactDataGrid--focused InovuaReactDataGrid--show-hover-rows InovuaReactDataGrid--direction-ltr InovuaReactDataGrid--no-header-border-right InovuaReactDataGrid--cell-borders-horizontal InovuaReactDataGrid--cell-borders-vertical&quot;]/div[@class=&quot;InovuaReactDataGrid__body&quot;]/div[@class=&quot;InovuaReactDataGrid__column-layout&quot;]/div[@class=&quot;InovuaReactDataGrid__virtual-list inovua-react-virtual-list inovua-react-virtual-list--theme-default-light inovua-react-virtual-list--virtual-scroll inovua-react-scroll-container--block inovua-react-scroll-container inovua-react-scroll-container--theme-default-light&quot;]/div[@class=&quot;inovua-react-scroll-container__wrapper&quot;]/div[1]/div[1]</value>
+      <webElementGuid>82eb6a8f-e4bc-4c58-a23d-bfd4f3d00baa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/section/main/div/div/div/div[2]/div/div/div[2]/div/div/div</value>
+      <webElementGuid>572c3586-9718-4dad-a33c-367bc0a1da88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Operator'])[1]/following::div[10]</value>
+      <webElementGuid>0e326161-8b84-4d35-a01b-9198b409adfa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jumlah'])[1]/following::div[22]</value>
+      <webElementGuid>a6b623ec-8fe7-4b8b-86b1-82f36cf83353</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div/div/div</value>
+      <webElementGuid>33405f7e-b587-47b2-8ea6-d37df89918a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'OH07092300465984TESSS TIM ITellaTOKOLANGSUNG KIRIMCUSTOMER0 of 1ELLA' or . = 'OH07092300465984TESSS TIM ITellaTOKOLANGSUNG KIRIMCUSTOMER0 of 1ELLA')]</value>
+      <webElementGuid>b6545347-997c-4cf4-82d7-84b08de91dcf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

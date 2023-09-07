@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_CARDED 30S26 warna</name>
+   <tag></tag>
+   <elementGuidId>b04c1eb1-61ae-42ee-ad57-33bebaa70581</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.I.g.k.i.v</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[5]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>efb94a05-12f5-4cf6-a439-ef0664fbed79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>932c4270-fdfe-4612-8fc4-30891b3baaad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>I g k i v</value>
+      <webElementGuid>de2b0199-59fe-4ca9-873c-a44a9a8c7a70</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>CARDED 30S26 warna</value>
+      <webElementGuid>c279b5cd-d7bd-41a5-a28f-75f16ff58749</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;a&quot;]/div[3]/div[@class=&quot;px-6&quot;]/div[3]/div[1]/div[@class=&quot;px-2.5&quot;]/div[@class=&quot;u&quot;]/button[@class=&quot;I g k i v&quot;]</value>
+      <webElementGuid>2dec7e9d-df88-4ad8-bd33-82017707c1e9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[5]</value>
+      <webElementGuid>ed33ff9b-9837-443e-b523-3757ad3dea13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div[3]/div[3]/div[3]/div/div/div/button</value>
+      <webElementGuid>7eb046ba-4260-4139-bdff-b8240592f73e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CVC, COMBED, CARDED'])[1]/following::button[1]</value>
+      <webElementGuid>58393178-d763-45f7-b949-3abb1789534b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PLAIN'])[1]/following::button[1]</value>
+      <webElementGuid>00539323-6d10-4b85-a4fb-b7d9e5c1dccb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='COMBED 16S'])[1]/preceding::button[1]</value>
+      <webElementGuid>1390d1dd-3b60-41fc-a31c-e3d0313af4bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/button</value>
+      <webElementGuid>ccc5235f-8a76-4ee1-a4ab-f0cf7f97bcdc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'CARDED 30S26 warna' or . = 'CARDED 30S26 warna')]</value>
+      <webElementGuid>23002ef2-2e19-432c-9be6-58609d3f0791</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

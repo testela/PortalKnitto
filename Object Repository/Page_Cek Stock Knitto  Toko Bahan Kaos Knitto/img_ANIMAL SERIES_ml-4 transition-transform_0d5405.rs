@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_ANIMAL SERIES_ml-4 transition-transform_0d5405</name>
+   <tag></tag>
+   <elementGuidId>96edb285-5872-4710-a4a9-e0154769519a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.ml-4.transition-transform.duration-200</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/div[3]/div[3]/button/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>ef3079ae-423f-4e59-948b-db45ac3d7a7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/assets/caret-down.svg</value>
+      <webElementGuid>ad5cdf85-963d-492e-b158-0c26554389db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Caret Down</value>
+      <webElementGuid>ec57ac29-171d-4f94-b98b-9b9ddf073f9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>24</value>
+      <webElementGuid>c8d4aa94-33cf-40d4-ae6c-5bc40b0a7b91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>24</value>
+      <webElementGuid>bb3f61a6-5d6d-48bf-897a-99508816c499</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ml-4 transition-transform duration-200</value>
+      <webElementGuid>c658552b-d85c-4c41-8edc-18e3bebf585c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;a&quot;]/div[3]/div[@class=&quot;px-6&quot;]/button[@class=&quot;I g k i q z-10&quot;]/img[@class=&quot;ml-4 transition-transform duration-200&quot;]</value>
+      <webElementGuid>231b3503-7979-4111-9281-af341b91444f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div[3]/div[3]/button/img</value>
+      <webElementGuid>6bcbebb8-f4ce-4ef1-8518-603bf0200ab9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>(//img[@alt='Caret Down'])[2]</value>
+      <webElementGuid>47b5a621-0098-4c46-b660-da403c7793c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button/img</value>
+      <webElementGuid>b8043cff-1905-47b4-8201-3b8a7c4a2c99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/assets/caret-down.svg' and @alt = 'Caret Down']</value>
+      <webElementGuid>8af2abca-ee1f-41eb-982f-c94c0bdfe256</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

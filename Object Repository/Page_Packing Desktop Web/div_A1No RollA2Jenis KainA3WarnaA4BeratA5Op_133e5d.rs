@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_A1No RollA2Jenis KainA3WarnaA4BeratA5Op_133e5d</name>
+   <tag></tag>
+   <elementGuidId>d77cfad6-9ec3-4746-8d50-8fcd7965a5ff</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.InovuaReactDataGrid.InovuaReactDataGrid--theme-default-light.InovuaReactDataGrid--columns-ready.InovuaReactDataGrid--focused.InovuaReactDataGrid--show-hover-rows.InovuaReactDataGrid--direction-ltr.InovuaReactDataGrid--no-header-border-right.InovuaReactDataGrid--cell-borders-horizontal.InovuaReactDataGrid--cell-borders-vertical</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/section/main/div/div[2]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0d46aa21-91a1-4ed8-ae81-9f611b4deed3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>InovuaReactDataGrid InovuaReactDataGrid--theme-default-light InovuaReactDataGrid--columns-ready InovuaReactDataGrid--focused InovuaReactDataGrid--show-hover-rows InovuaReactDataGrid--direction-ltr InovuaReactDataGrid--no-header-border-right InovuaReactDataGrid--cell-borders-horizontal InovuaReactDataGrid--cell-borders-vertical</value>
+      <webElementGuid>439d840a-1b9c-4876-b0b2-09a17710d687</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>A1No RollA2Jenis KainA3WarnaA4BeratA5OperatorC2309000082CARDED 30SORANGE1.70 KgellaLoading</value>
+      <webElementGuid>524682bd-da03-4bd5-9695-5f9b33f0e260</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/section[@class=&quot;ant-layout layout css-p8cx3h&quot;]/main[@class=&quot;ant-layout-content&quot;]/div[@class=&quot;site-layout-content&quot;]/div[@class=&quot;ant-card css-p8cx3h&quot;]/div[@class=&quot;ant-card-body&quot;]/div[@class=&quot;InovuaReactDataGrid InovuaReactDataGrid--theme-default-light InovuaReactDataGrid--columns-ready InovuaReactDataGrid--focused InovuaReactDataGrid--show-hover-rows InovuaReactDataGrid--direction-ltr InovuaReactDataGrid--no-header-border-right InovuaReactDataGrid--cell-borders-horizontal InovuaReactDataGrid--cell-borders-vertical&quot;]</value>
+      <webElementGuid>dcd2277d-dcbf-46d8-a20b-5df0e8309edb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/section/main/div/div[2]/div/div</value>
+      <webElementGuid>0e44efd3-8770-4b78-8013-96e5a87be317</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Detail Order'])[1]/following::div[14]</value>
+      <webElementGuid>4db9d465-252a-4f01-83d5-c947cf806370</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div</value>
+      <webElementGuid>0251433c-d989-435c-aa6e-25dd0d2a1bc2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'A1No RollA2Jenis KainA3WarnaA4BeratA5OperatorC2309000082CARDED 30SORANGE1.70 KgellaLoading' or . = 'A1No RollA2Jenis KainA3WarnaA4BeratA5OperatorC2309000082CARDED 30SORANGE1.70 KgellaLoading')]</value>
+      <webElementGuid>ae63c275-f343-4b7f-9a7e-173540145987</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

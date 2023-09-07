@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Packing Komplit_ant-input ant-input-l_802407</name>
+   <tag></tag>
+   <elementGuidId>d12b3249-ae28-46d9-a22e-85d1ab09f4f4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input.ant-input.ant-input-lg.css-p8cx3h</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@type='text']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>6e036063-7858-40cb-815b-2f0117c75eb6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Cari nomor order, nama customer</value>
+      <webElementGuid>c4550cd1-9687-4ef3-9b83-93cd06d4f5d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-input ant-input-lg css-p8cx3h</value>
+      <webElementGuid>db8d6757-42f3-4b16-adf2-fd415d3c1bbb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>f5aa9605-b9a6-4ffe-9589-a66963d5af3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/section[@class=&quot;ant-layout layout css-p8cx3h&quot;]/main[@class=&quot;ant-layout-content&quot;]/div[@class=&quot;site-layout-content&quot;]/div[@class=&quot;ant-card css-p8cx3h&quot;]/div[@class=&quot;ant-card-body&quot;]/div[@class=&quot;km-2-4 kd-flex kjustify-content-start kalign-items-center&quot;]/div[@class=&quot;ant-space css-p8cx3h ant-space-vertical&quot;]/div[@class=&quot;ant-space-item&quot;]/span[@class=&quot;ant-input-affix-wrapper ant-input-affix-wrapper-focused ant-input-affix-wrapper-lg css-p8cx3h&quot;]/input[@class=&quot;ant-input ant-input-lg css-p8cx3h&quot;]</value>
+      <webElementGuid>d990e788-9e98-4fb3-aebf-b35debcb6b3f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@type='text']</value>
+      <webElementGuid>111967ce-96fa-4d7c-970e-6b8a71a42314</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/section/main/div/div/div/div/div/div/span/input</value>
+      <webElementGuid>a48fbdc4-ea4c-4ffb-a2fd-d5e9796590d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input</value>
+      <webElementGuid>fa34c0ef-d4a3-4a0e-b4fc-2f0c646edcff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'Cari nomor order, nama customer' and @type = 'text']</value>
+      <webElementGuid>5f5c3f6d-e7c3-49c5-b3e6-73cf73401e83</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
