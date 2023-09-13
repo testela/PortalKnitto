@@ -31,15 +31,11 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_Packing Desktop We
 
 WebUI.click(findTestObject('Object Repository/Page_Packing Desktop Web/button_Login'))
 
-WebUI.waitForJQueryLoad(40)
-
 WebUI.setText(findTestObject('Object Repository/Page_Packing Desktop Web/input_Packing Komplit_ant-input ant-input-l_802407'), 
-    'OH130923010')
+    'OH130923039')
 
 WebUI.sendKeys(findTestObject('Object Repository/Page_Packing Desktop Web/input_Packing Komplit_ant-input ant-input-l_802407'), 
     Keys.chord(Keys.ENTER))
-
-WebUI.waitForJQueryLoad(20)
 
 WebUI.sendKeys(findTestObject('Page_Packing Desktop Web/body'), Keys.chord(Keys.TAB))
 
@@ -55,7 +51,7 @@ WebUI.sendKeys(findTestObject('Page_Packing Desktop Web/body'), Keys.chord(Keys.
 
 WebUI.sendKeys(findTestObject('Page_Packing Desktop Web/body'), Keys.chord(Keys.SPACE))
 
-WebUI.setText(findTestObject('Page_Packing Desktop Web/input_Kode Verifikasi_kodeVerifikasi'), '913')
+WebUI.setText(findTestObject('Page_Packing Desktop Web/input_Kode Verifikasi_kodeVerifikasi'), '115')
 
 WebUI.sendKeys(findTestObject('Page_Packing Desktop Web/body'), Keys.chord(Keys.ENTER))
 
