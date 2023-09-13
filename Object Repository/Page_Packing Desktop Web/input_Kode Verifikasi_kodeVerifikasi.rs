@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>88ac696b-da83-47b5-b704-d0a3d20046c5</webElementGuid>
+      <webElementGuid>4c7a4f15-da04-453d-965b-8ea8bf50d5a3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Tulis kode verifikasi</value>
-      <webElementGuid>47db8efd-faf3-413d-a7ee-531374069f17</webElementGuid>
+      <webElementGuid>f1ab5819-82dd-4b96-b5b6-f58a7b46a820</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>maxlength</name>
       <type>Main</type>
       <value>4</value>
-      <webElementGuid>a5551e02-dbbd-4729-83ea-de3d3191918f</webElementGuid>
+      <webElementGuid>1d117486-5528-44a4-93f4-7ceadad35125</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>name</name>
       <type>Main</type>
       <value>kodeVerifikasi</value>
-      <webElementGuid>e9d4e890-0460-4e42-9483-646ab298a6d4</webElementGuid>
+      <webElementGuid>07adaa46-c7b6-4643-8c21-e71463ac3143</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ant-input ant-input-lg css-p8cx3h</value>
-      <webElementGuid>f8be1202-cdad-432a-90c0-271196f23345</webElementGuid>
+      <webElementGuid>a958cd21-9d3d-4542-a43d-6c84258fae52</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>575db49b-2b5e-4a2a-b045-c82531e6b113</webElementGuid>
+      <webElementGuid>7ba33b9d-3691-4ffa-acc0-d144701cb1e8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/section[@class=&quot;ant-layout layout css-p8cx3h&quot;]/main[@class=&quot;ant-layout-content&quot;]/div[@class=&quot;site-layout-content&quot;]/div[@class=&quot;_backDrop_xj5w5_1&quot;]/div[@class=&quot;_containerModal_xj5w5_29&quot;]/div[2]/div[2]/input[@class=&quot;ant-input ant-input-lg css-p8cx3h&quot;]</value>
-      <webElementGuid>9b9ae2fe-423d-4e59-a46e-0ccacf6264f4</webElementGuid>
+      <webElementGuid>cbff8a0f-c7eb-47a6-a24f-0ec5bcb81bd2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@name='kodeVerifikasi']</value>
-      <webElementGuid>3910d7d1-3608-4b89-af28-806a320c672b</webElementGuid>
+      <webElementGuid>f51b9785-b83d-4854-83bc-e8888ca97fce</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/section/main/div/div[4]/div/div[2]/div[2]/input</value>
-      <webElementGuid>f1063c50-3181-44b5-870c-4e4c8ebdf313</webElementGuid>
+      <webElementGuid>a13f9f2f-f0b1-4f77-8412-67c0c977d12c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/input</value>
-      <webElementGuid>e91b9681-2b82-4232-9b20-5df23708f21e</webElementGuid>
+      <webElementGuid>24482394-d6e7-48cd-a252-e6fd3c616d07</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@placeholder = 'Tulis kode verifikasi' and @name = 'kodeVerifikasi' and @type = 'text']</value>
-      <webElementGuid>1645eed8-849e-45a9-b20e-82ee93e7af81</webElementGuid>
+      <webElementGuid>61df9b6f-4648-4027-94dd-4701213bf626</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='root']/section/main/div/div[2]/div/div/div/div/div[2]/div/div/div/div/div/div/div/div/div/div</value>
+         <value>//input[@name=&quot;kodeVerifikasi&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>96c48e60-521e-40b8-b670-cf928b6c1022</webElementGuid>
+      <webElementGuid>470f8894-9461-4277-9892-9fcd8eff5da8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>InovuaReactDataGrid__cell__content</value>
-      <webElementGuid>06fa0955-490c-43ac-8828-c2612ed488c9</webElementGuid>
+      <webElementGuid>e4438f22-4372-413c-bd50-c83aceebd468</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>C2309000082</value>
-      <webElementGuid>1ba88332-b0ae-4bbf-844f-aaeaef1b4c54</webElementGuid>
+      <webElementGuid>b17ac14f-141d-4d72-be99-af9432384494</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/section[@class=&quot;ant-layout layout css-p8cx3h&quot;]/main[@class=&quot;ant-layout-content&quot;]/div[@class=&quot;site-layout-content&quot;]/div[@class=&quot;ant-card css-p8cx3h&quot;]/div[@class=&quot;ant-card-body&quot;]/div[@class=&quot;InovuaReactDataGrid InovuaReactDataGrid--theme-default-light InovuaReactDataGrid--columns-ready InovuaReactDataGrid--focused InovuaReactDataGrid--show-hover-rows InovuaReactDataGrid--direction-ltr InovuaReactDataGrid--no-header-border-right InovuaReactDataGrid--cell-borders-horizontal InovuaReactDataGrid--cell-borders-vertical&quot;]/div[@class=&quot;InovuaReactDataGrid__body&quot;]/div[@class=&quot;InovuaReactDataGrid__column-layout&quot;]/div[@class=&quot;InovuaReactDataGrid__virtual-list inovua-react-virtual-list inovua-react-virtual-list--theme-default-light inovua-react-virtual-list--virtual-scroll inovua-react-scroll-container--block inovua-react-scroll-container inovua-react-scroll-container--theme-default-light&quot;]/div[@class=&quot;inovua-react-scroll-container__wrapper&quot;]/div[1]/div[1]/div[1]/div[@class=&quot;inovua-react-virtual-list__view-container&quot;]/div[@class=&quot;inovua-react-virtual-list__row-container&quot;]/div[@class=&quot;InovuaReactDataGrid__row InovuaReactDataGrid__row--direction-ltr InovuaReactDataGrid__row--no-zebra InovuaReactDataGrid__row--no-locked-start InovuaReactDataGrid__row--no-locked-end InovuaReactDataGrid__row--show-horizontal-borders InovuaReactDataGrid__row--active InovuaReactDataGrid__row--rowheight InovuaReactDataGrid__row--first InovuaReactDataGrid__row--last InovuaReactDataGrid__row--focused global-custom-row&quot;]/div[@class=&quot;InovuaReactDataGrid__row-cell-wrap InovuaReactDataGrid__row-hover-target&quot;]/div[@class=&quot;InovuaReactDataGrid__cell InovuaReactDataGrid__cell--unlocked InovuaReactDataGrid__cell--direction-ltr InovuaReactDataGrid__cell--user-select-none InovuaReactDataGrid__cell--first InovuaReactDataGrid__cell--first-in-section InovuaReactDataGrid__cell--show-border-bottom InovuaReactDataGrid__cell--active-row-left-border&quot;]/div[@class=&quot;InovuaReactDataGrid__cell__content&quot;]</value>
-      <webElementGuid>931db303-4c31-467c-8496-ea2c5bcd30c8</webElementGuid>
+      <webElementGuid>de808014-f8d3-465e-b179-51d075f38d7e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/section/main/div/div[2]/div/div/div/div/div[2]/div/div/div/div/div/div/div/div/div/div</value>
-      <webElementGuid>256c3ad7-4312-4c50-bbee-760c1c2d6b43</webElementGuid>
+      <webElementGuid>780ae121-fab0-4796-9b3f-a9642161f1c8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Operator'])[1]/following::div[17]</value>
-      <webElementGuid>382d5560-e909-461a-92c8-0d7d33b6bc11</webElementGuid>
+      <webElementGuid>2f9f7b03-4ebf-4d72-8915-0ed2ce973baa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='A5'])[1]/following::div[22]</value>
-      <webElementGuid>60103dd0-17a0-4316-9aaa-1bd07ad533e0</webElementGuid>
+      <webElementGuid>6d45c7fc-3feb-4082-ae27-27f5144715e6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='CARDED 30S'])[1]/preceding::div[1]</value>
-      <webElementGuid>8490ebc4-bf45-4841-a029-ec954d0cf6f5</webElementGuid>
+      <webElementGuid>99043a05-f17c-47a4-b554-d40e3393832f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='ORANGE'])[1]/preceding::div[3]</value>
-      <webElementGuid>3d287e05-60a6-49e3-9957-e22cbb00ea7b</webElementGuid>
+      <webElementGuid>6c0eed0c-fd6b-43fb-92db-710952770ff0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='C2309000082']/parent::*</value>
-      <webElementGuid>2e89bf69-c4cb-4a09-bc7d-dc2483428996</webElementGuid>
+      <webElementGuid>1fc84d78-f211-4d25-a7d4-a1ba3c4409bc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/div[2]/div/div/div/div/div/div/div/div/div/div</value>
-      <webElementGuid>5794cbf2-e6db-413a-ae91-58ef5c56d305</webElementGuid>
+      <webElementGuid>d75911f2-d8c5-413a-947e-654b1a4a37d9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'C2309000082' or . = 'C2309000082')]</value>
-      <webElementGuid>a8f2ef9f-a200-4e78-ab96-8427ec1abbca</webElementGuid>
+      <webElementGuid>54e7a046-0379-4e50-a646-d77e793055a8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

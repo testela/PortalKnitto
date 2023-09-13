@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>row_noOrder</name>
+   <name>Card Site</name>
    <tag></tag>
-   <elementGuidId>7b9a4f62-e732-4364-9040-220d6eefcc98</elementGuidId>
+   <elementGuidId>f41dea60-2725-4680-a793-a006538d2200</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@data-props-id=&quot;no_order&quot;]/tbody/tr[1]</value>
+         <value>//*[@id=&quot;root&quot;]/section/main/div/div/div/div[2]/div[1]/div[1]/div[2]/div[1]/div/div[1]/div/div/div[1]/div/div/div[3]</value>
       </entry>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

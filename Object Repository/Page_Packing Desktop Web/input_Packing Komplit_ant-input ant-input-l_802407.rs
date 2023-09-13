@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>6e036063-7858-40cb-815b-2f0117c75eb6</webElementGuid>
+      <webElementGuid>9bf342f9-3787-4e1d-bef1-90460f8b40f6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Cari nomor order, nama customer</value>
-      <webElementGuid>c4550cd1-9687-4ef3-9b83-93cd06d4f5d5</webElementGuid>
+      <webElementGuid>bbfb3452-d951-4292-a04e-9ff58e5d0f2f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ant-input ant-input-lg css-p8cx3h</value>
-      <webElementGuid>db8d6757-42f3-4b16-adf2-fd415d3c1bbb</webElementGuid>
+      <webElementGuid>c7c56dae-09b3-4593-b630-2e38b9393ee1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>f5aa9605-b9a6-4ffe-9589-a66963d5af3a</webElementGuid>
+      <webElementGuid>e52b1624-8467-41ba-9fba-73c7cb9152d0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/section[@class=&quot;ant-layout layout css-p8cx3h&quot;]/main[@class=&quot;ant-layout-content&quot;]/div[@class=&quot;site-layout-content&quot;]/div[@class=&quot;ant-card css-p8cx3h&quot;]/div[@class=&quot;ant-card-body&quot;]/div[@class=&quot;km-2-4 kd-flex kjustify-content-start kalign-items-center&quot;]/div[@class=&quot;ant-space css-p8cx3h ant-space-vertical&quot;]/div[@class=&quot;ant-space-item&quot;]/span[@class=&quot;ant-input-affix-wrapper ant-input-affix-wrapper-focused ant-input-affix-wrapper-lg css-p8cx3h&quot;]/input[@class=&quot;ant-input ant-input-lg css-p8cx3h&quot;]</value>
-      <webElementGuid>d990e788-9e98-4fb3-aebf-b35debcb6b3f</webElementGuid>
+      <webElementGuid>81dfb320-0103-41a8-971d-8276bc46fc82</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@type='text']</value>
-      <webElementGuid>111967ce-96fa-4d7c-970e-6b8a71a42314</webElementGuid>
+      <webElementGuid>fe2943b8-4d0f-4fdd-8e08-85756b87359f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/section/main/div/div/div/div/div/div/span/input</value>
-      <webElementGuid>a48fbdc4-ea4c-4ffb-a2fd-d5e9796590d8</webElementGuid>
+      <webElementGuid>55e5f34d-a4e5-4930-a89f-3115fc882dee</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>fa34c0ef-d4a3-4a0e-b4fc-2f0c646edcff</webElementGuid>
+      <webElementGuid>bd745694-e967-4aa0-9692-c515d4b9a6f8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +86,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@placeholder = 'Cari nomor order, nama customer' and @type = 'text']</value>
-      <webElementGuid>5f5c3f6d-e7c3-49c5-b3e6-73cf73401e83</webElementGuid>
+      <webElementGuid>0a6075fa-810d-444f-9ffd-4e5fcfa57fb7</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

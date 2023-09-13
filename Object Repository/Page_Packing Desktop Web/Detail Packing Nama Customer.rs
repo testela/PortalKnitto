@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>row_noOrder</name>
+   <name>Detail Packing Nama Customer</name>
    <tag></tag>
-   <elementGuidId>7b9a4f62-e732-4364-9040-220d6eefcc98</elementGuidId>
+   <elementGuidId>fbe8cc0d-b2fe-47d8-9bc6-ed29b634e88b</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@data-props-id=&quot;no_order&quot;]/tbody/tr[1]</value>
+         <key>BASIC</key>
+         <value></value>
       </entry>
       <entry>
-         <key>BASIC</key>
+         <key>XPATH</key>
+         <value>//p[@class=&quot;link bluish-balck-100&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
