@@ -34,7 +34,7 @@ WebUI.click(findTestObject('Object Repository/Page_Packing Desktop Web/button_Lo
 WebUI.waitForJQueryLoad(40)
 
 WebUI.setText(findTestObject('Object Repository/Page_Packing Desktop Web/input_Packing Komplit_ant-input ant-input-l_802407'), 
-    'OH080923017')
+    'OH130923010')
 
 WebUI.sendKeys(findTestObject('Object Repository/Page_Packing Desktop Web/input_Packing Komplit_ant-input ant-input-l_802407'), 
     Keys.chord(Keys.ENTER))
@@ -55,13 +55,23 @@ WebUI.sendKeys(findTestObject('Page_Packing Desktop Web/body'), Keys.chord(Keys.
 
 WebUI.sendKeys(findTestObject('Page_Packing Desktop Web/body'), Keys.chord(Keys.SPACE))
 
-WebUI.setText(findTestObject('Page_Packing Desktop Web/input_Kode Verifikasi_kodeVerifikasi'), '933')
+WebUI.setText(findTestObject('Page_Packing Desktop Web/input_Kode Verifikasi_kodeVerifikasi'), '913')
 
 WebUI.sendKeys(findTestObject('Page_Packing Desktop Web/body'), Keys.chord(Keys.ENTER))
 
 WebUI.sendKeys(findTestObject('Page_Packing Desktop Web/body'), Keys.chord(Keys.ENTER))
 
 WebUI.setText(findTestObject('Page_Packing Desktop Web/Input jumlah Potong'), '1')
+
+WebUI.sendKeys(findTestObject('Page_Packing Desktop Web/body'), Keys.chord(Keys.ENTER))
+
+WebUI.sendKeys(findTestObject('Page_Packing Desktop Web/body'), Keys.chord(Keys.ENTER))
+
+WebUI.click(findTestObject('Page_Packing Desktop Web/Input Lokasi'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.setText(findTestObject('Page_Packing Desktop Web/Input Lokasi'), 'A101A')
+
+WebUI.sendKeys(findTestObject('Page_Packing Desktop Web/body'), Keys.chord(Keys.ENTER))
 
 WebUI.sendKeys(findTestObject('Page_Packing Desktop Web/body'), Keys.chord(Keys.ENTER))
 
