@@ -21,9 +21,9 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://192.168.21.23:8058/')
 
-WebUI.setText(findTestObject('Object Repository/Page_Packing Desktop Web/input_Username_username'), 'ella')
+WebUI.setText(findTestObject('Object Repository/Page_Packing Desktop Web/input_Username'), 'ella')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Packing Desktop Web/input_Password_password'), 'jHBudJbg7iE=')
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Packing Desktop Web/input_Password'), 'jHBudJbg7iE=')
 
 WebUI.click(findTestObject('Object Repository/Page_Packing Desktop Web/button_Login'))
 

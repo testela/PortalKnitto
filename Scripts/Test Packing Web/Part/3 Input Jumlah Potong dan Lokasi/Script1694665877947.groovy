@@ -21,53 +21,9 @@ import org.openqa.selenium.remote.http.HttpMethod as HttpMethod
 import org.openqa.selenium.remote.http.HttpRequest as HttpRequest
 import org.openqa.selenium.remote.http.HttpResponse as HttpResponse
 
-WebUI.openBrowser('')
-
-WebUI.navigateToUrl('http://192.168.21.23:8058/')
-
-WebUI.setText(findTestObject('Object Repository/Page_Packing Desktop Web/input_Username'), 'ella')
-
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Packing Desktop Web/input_Password'), 'jHBudJbg7iE=')
-
-WebUI.click(findTestObject('Object Repository/Page_Packing Desktop Web/button_Login'))
-
-WebUI.setText(findTestObject('Object Repository/Page_Packing Desktop Web/input_Packing Komplit_ant-input ant-input-l_802407'), 
-    'OH060923011')
-
-WebUI.sendKeys(findTestObject('Object Repository/Page_Packing Desktop Web/input_Packing Komplit_ant-input ant-input-l_802407'), 
-    Keys.chord(Keys.ENTER))
-
-WebUI.sendKeys(findTestObject('Page_Packing Desktop Web/body'), Keys.chord(Keys.TAB))
-
 WebUI.sendKeys(findTestObject('Page_Packing Desktop Web/body'), Keys.chord(Keys.ENTER))
 
-WebUI.waitForElementVisible(findTestObject('Page_Packing Desktop Web/Detail Packing Nama Customer'), 0, FailureHandling.STOP_ON_FAILURE)
-
-WebUI.sendKeys(findTestObject('Page_Packing Desktop Web/body'), Keys.chord(Keys.TAB))
-
-WebUI.sendKeys(findTestObject('Page_Packing Desktop Web/body'), Keys.chord(Keys.TAB))
-
-WebUI.sendKeys(findTestObject('Page_Packing Desktop Web/body'), Keys.chord(Keys.SPACE))
-
-WebUI.setText(findTestObject('Page_Packing Desktop Web/Input Kode Verifikasi Kain'), '496')
-
-WebUI.sendKeys(findTestObject('Page_Packing Desktop Web/body'), Keys.chord(Keys.ENTER))
-
-WebUI.sendKeys(findTestObject('Page_Packing Desktop Web/body'), Keys.chord(Keys.TAB))
-
-WebUI.sendKeys(findTestObject('Page_Packing Desktop Web/body'), Keys.chord(Keys.TAB))
-
-WebUI.sendKeys(findTestObject('Page_Packing Desktop Web/body'), Keys.chord(Keys.DOWN))
-
-WebUI.sendKeys(findTestObject('Page_Packing Desktop Web/body'), Keys.chord(Keys.SPACE))
-
-WebUI.setText(findTestObject('Page_Packing Desktop Web/Input Kode Verifikasi Kain'), '251')
-
-WebUI.sendKeys(findTestObject('Page_Packing Desktop Web/body'), Keys.chord(Keys.ENTER))
-
-WebUI.sendKeys(findTestObject('Page_Packing Desktop Web/body'), Keys.chord(Keys.ENTER))
-
-WebUI.setText(findTestObject('Page_Packing Desktop Web/Input jumlah Potong'), '2')
+WebUI.setText(findTestObject('Page_Packing Desktop Web/Input jumlah Potong'), '1')
 
 WebUI.sendKeys(findTestObject('Page_Packing Desktop Web/body'), Keys.chord(Keys.ENTER))
 

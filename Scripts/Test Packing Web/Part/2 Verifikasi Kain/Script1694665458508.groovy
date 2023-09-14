@@ -16,16 +16,18 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
+import org.openqa.selenium.remote.http.HttpClient as HttpClient
+import org.openqa.selenium.remote.http.HttpMethod as HttpMethod
+import org.openqa.selenium.remote.http.HttpRequest as HttpRequest
+import org.openqa.selenium.remote.http.HttpResponse as HttpResponse
 
-WebUI.openBrowser('')
+WebUI.sendKeys(findTestObject('Page_Packing Desktop Web/body'), Keys.chord(Keys.TAB))
 
-WebUI.navigateToUrl('http://192.168.20.21:8058/')
+WebUI.sendKeys(findTestObject('Page_Packing Desktop Web/body'), Keys.chord(Keys.TAB))
 
-WebUI.click(findTestObject('Object Repository/Page_Packing Desktop Web/input_Username'))
+WebUI.sendKeys(findTestObject('Page_Packing Desktop Web/body'), Keys.chord(Keys.SPACE))
 
-WebUI.click(findTestObject('Object Repository/Page_Packing Desktop Web/button_Login'))
+WebUI.setText(findTestObject('Page_Packing Desktop Web/Input Kode Verifikasi Kain'), '496')
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Packing Desktop Web/div_Username is required'), 0)
-
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Packing Desktop Web/div_Username is required'), 'Username is required')
+WebUI.sendKeys(findTestObject('Page_Packing Desktop Web/body'), Keys.chord(Keys.ENTER))
 

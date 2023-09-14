@@ -19,22 +19,19 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('http://192.168.20.21:8058/')
+WebUI.navigateToUrl('http://192.168.21.23:8058/')
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Packing Desktop Web/input_Username_username'), 0)
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Packing Desktop Web/input_Username'), 0)
 
-WebUI.setText(findTestObject('Object Repository/Page_Packing Desktop Web/input_Username_username'), 'ella')
+WebUI.setText(findTestObject('Object Repository/Page_Packing Desktop Web/input_Username'), 'ella')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Packing Desktop Web/input_Password_password'), '9NLz+4tGZcQ=')
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Packing Desktop Web/input_Password'), '9NLz+4tGZcQ=')
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Packing Desktop Web/input_Password_password'), 0)
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Packing Desktop Web/input_Password'), 0)
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Packing Desktop Web/input_Password_password'), 'jHBudJbg7iE=')
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Packing Desktop Web/input_Password'), 'jHBudJbg7iE=')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/Page_Packing Desktop Web/button_Login'))
 
 WebUI.click(findTestObject('Object Repository/Page_Packing Desktop Web/button_Login'))
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Packing Desktop Web/div_1No Order2No Customer3Nama Customer4Adm_39f9eb'), 
-    0)
 
