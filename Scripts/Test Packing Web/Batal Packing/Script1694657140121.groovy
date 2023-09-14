@@ -16,10 +16,6 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
-import org.openqa.selenium.remote.http.HttpClient as HttpClient
-import org.openqa.selenium.remote.http.HttpMethod as HttpMethod
-import org.openqa.selenium.remote.http.HttpRequest as HttpRequest
-import org.openqa.selenium.remote.http.HttpResponse as HttpResponse
 
 WebUI.openBrowser('')
 
@@ -31,43 +27,29 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_Packing Desktop We
 
 WebUI.click(findTestObject('Object Repository/Page_Packing Desktop Web/button_Login'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Packing Desktop Web/input_Packing Komplit_ant-input ant-input-l_802407'), 
+WebUI.sendKeys(findTestObject(null), Keys.chord(Keys.F3))
+
+WebUI.click(findTestObject('Object Repository/Page_Packing Desktop Web/p_Sudah Packing (F3)'))
+
+WebUI.setText(findTestObject('Object Repository/Page_Packing Desktop Web/input_Sudah Packing_ant-input ant-input-lg _fe3b60'), 
     'OH060923011')
 
-WebUI.sendKeys(findTestObject('Object Repository/Page_Packing Desktop Web/input_Packing Komplit_ant-input ant-input-l_802407'), 
+WebUI.sendKeys(findTestObject('Object Repository/Page_Packing Desktop Web/input_Sudah Packing_ant-input ant-input-lg _fe3b60'), 
     Keys.chord(Keys.ENTER))
 
 WebUI.sendKeys(findTestObject('Page_Packing Desktop Web/body'), Keys.chord(Keys.TAB))
 
 WebUI.sendKeys(findTestObject('Page_Packing Desktop Web/body'), Keys.chord(Keys.ENTER))
 
-WebUI.waitForElementVisible(findTestObject('Page_Packing Desktop Web/Detail Packing Nama Customer'), 0, FailureHandling.STOP_ON_FAILURE)
-
-WebUI.sendKeys(findTestObject('Page_Packing Desktop Web/body'), Keys.chord(Keys.TAB))
-
-WebUI.sendKeys(findTestObject('Page_Packing Desktop Web/body'), Keys.chord(Keys.TAB))
-
-WebUI.sendKeys(findTestObject('Page_Packing Desktop Web/body'), Keys.chord(Keys.ENTER))
-
-WebUI.sendKeys(findTestObject('Page_Packing Desktop Web/body'), Keys.chord(Keys.SPACE))
-
-WebUI.setText(findTestObject('Page_Packing Desktop Web/Input Kode Verifikasi Kain'), '913')
+WebUI.sendKeys(findTestObject('Page_Packing Desktop Web/body'), Keys.chord(Keys.F1))
 
 WebUI.sendKeys(findTestObject('Page_Packing Desktop Web/body'), Keys.chord(Keys.ENTER))
 
 WebUI.sendKeys(findTestObject('Page_Packing Desktop Web/body'), Keys.chord(Keys.ENTER))
 
-WebUI.setText(findTestObject('Page_Packing Desktop Web/Input jumlah Potong'), '1')
+WebUI.setText(findTestObject('Object Repository/Page_Packing Desktop Web/input_Sudah Packing_ant-input ant-input-lg _fe3b60'), 
+    'OH060923011')
 
-WebUI.sendKeys(findTestObject('Page_Packing Desktop Web/body'), Keys.chord(Keys.ENTER))
-
-WebUI.sendKeys(findTestObject('Page_Packing Desktop Web/body'), Keys.chord(Keys.ENTER))
-
-WebUI.click(findTestObject('Page_Packing Desktop Web/Input Lokasi'), FailureHandling.STOP_ON_FAILURE)
-
-WebUI.setText(findTestObject('Page_Packing Desktop Web/Input Lokasi'), 'A101A')
-
-WebUI.sendKeys(findTestObject('Page_Packing Desktop Web/body'), Keys.chord(Keys.ENTER))
-
-WebUI.sendKeys(findTestObject('Page_Packing Desktop Web/body'), Keys.chord(Keys.ENTER))
+WebUI.sendKeys(findTestObject('Object Repository/Page_Packing Desktop Web/input_Sudah Packing_ant-input ant-input-lg _fe3b60'), 
+    Keys.chord(Keys.ENTER))
 

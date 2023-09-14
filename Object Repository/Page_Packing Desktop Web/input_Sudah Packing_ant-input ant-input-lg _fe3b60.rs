@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Kode Verifikasi_kodeVerifikasi</name>
+   <name>input_Sudah Packing_ant-input ant-input-lg _fe3b60</name>
    <tag></tag>
    <elementGuidId>b609c172-1617-4186-b155-da26f97e1e04</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>input[name=&quot;kodeVerifikasi&quot;]</value>
+         <key>XPATH</key>
+         <value>//input[@type='text']</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@name='kodeVerifikasi']</value>
+         <key>CSS</key>
+         <value>input.ant-input.ant-input-lg.css-p8cx3h</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,31 +22,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>4c7a4f15-da04-453d-965b-8ea8bf50d5a3</webElementGuid>
+      <webElementGuid>46aa11d7-b382-44e6-8c1a-a718b24325aa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
-      <value>Tulis kode verifikasi</value>
-      <webElementGuid>f1ab5819-82dd-4b96-b5b6-f58a7b46a820</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>maxlength</name>
-      <type>Main</type>
-      <value>4</value>
-      <webElementGuid>1d117486-5528-44a4-93f4-7ceadad35125</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>name</name>
-      <type>Main</type>
-      <value>kodeVerifikasi</value>
-      <webElementGuid>07adaa46-c7b6-4643-8c21-e71463ac3143</webElementGuid>
+      <value>Cari nomor order, nama customer</value>
+      <webElementGuid>6823ff72-0167-44a9-95dd-a7926e77b3ae</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ant-input ant-input-lg css-p8cx3h</value>
-      <webElementGuid>a958cd21-9d3d-4542-a43d-6c84258fae52</webElementGuid>
+      <webElementGuid>8c227930-d7e6-45e5-8a3d-e3147a7d1f12</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,46 +46,46 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>7ba33b9d-3691-4ffa-acc0-d144701cb1e8</webElementGuid>
+      <webElementGuid>7bce1d6f-3446-4880-a726-fcb5ea55362e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;root&quot;)/section[@class=&quot;ant-layout layout css-p8cx3h&quot;]/main[@class=&quot;ant-layout-content&quot;]/div[@class=&quot;site-layout-content&quot;]/div[@class=&quot;_backDrop_xj5w5_1&quot;]/div[@class=&quot;_containerModal_xj5w5_29&quot;]/div[2]/div[2]/input[@class=&quot;ant-input ant-input-lg css-p8cx3h&quot;]</value>
-      <webElementGuid>cbff8a0f-c7eb-47a6-a24f-0ec5bcb81bd2</webElementGuid>
+      <value>id(&quot;root&quot;)/section[@class=&quot;ant-layout layout css-p8cx3h&quot;]/main[@class=&quot;ant-layout-content&quot;]/div[@class=&quot;site-layout-content&quot;]/div[@class=&quot;ant-card css-p8cx3h&quot;]/div[@class=&quot;ant-card-body&quot;]/div[@class=&quot;km-2-4 kd-flex kjustify-content-start kalign-items-center&quot;]/div[@class=&quot;ant-space css-p8cx3h ant-space-vertical&quot;]/div[@class=&quot;ant-space-item&quot;]/span[@class=&quot;ant-input-affix-wrapper ant-input-affix-wrapper-focused ant-input-affix-wrapper-lg css-p8cx3h&quot;]/input[@class=&quot;ant-input ant-input-lg css-p8cx3h&quot;]</value>
+      <webElementGuid>b7c483c4-42f1-4bb9-b889-29581d526587</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@name='kodeVerifikasi']</value>
-      <webElementGuid>f51b9785-b83d-4854-83bc-e8888ca97fce</webElementGuid>
+      <value>//input[@type='text']</value>
+      <webElementGuid>6e2d606c-d007-43e5-a8e5-bef0b36621c4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='root']/section/main/div/div[4]/div/div[2]/div[2]/input</value>
-      <webElementGuid>a13f9f2f-f0b1-4f77-8412-67c0c977d12c</webElementGuid>
+      <value>//div[@id='root']/section/main/div/div/div/div/div/div/span/input</value>
+      <webElementGuid>a9ab132c-e64d-4cf0-9c41-e0f3b76f035f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/input</value>
-      <webElementGuid>24482394-d6e7-48cd-a252-e6fd3c616d07</webElementGuid>
+      <value>//input</value>
+      <webElementGuid>07465adc-0bfa-4305-a282-b59c53fc1d25</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@placeholder = 'Tulis kode verifikasi' and @name = 'kodeVerifikasi' and @type = 'text']</value>
-      <webElementGuid>61df9b6f-4648-4027-94dd-4701213bf626</webElementGuid>
+      <value>//input[@placeholder = 'Cari nomor order, nama customer' and @type = 'text']</value>
+      <webElementGuid>b06868fd-50da-4f2e-912e-a563de56b034</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

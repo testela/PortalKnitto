@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Login</name>
+   <name>p_Ya (ENTER)</name>
    <tag></tag>
-   <elementGuidId>8eb14bbb-bfa8-4078-b93a-8a942c711915</elementGuidId>
+   <elementGuidId>5b5beafb-2c9d-4066-9513-dd29e667edf3</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='root']/section/div[2]/form/button</value>
+         <value>//div[@id='root']/section/main/div/div[3]/div/div[2]/div/button[2]/p</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>button._buttonLogin_1gz7r_117</value>
+         <value>button.ant-btn.css-p8cx3h.ant-btn-primary > p.button</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,87 +21,79 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>b35ed816-6628-4316-9b64-5b90693004ff</webElementGuid>
+      <value>p</value>
+      <webElementGuid>3ccf078c-7312-42b0-98f5-cd7cebb68df2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>_buttonLogin_1gz7r_117</value>
-      <webElementGuid>5139fb76-468d-4956-abeb-232340838181</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>data-testid</name>
-      <type>Main</type>
-      <value>btnLogin</value>
-      <webElementGuid>ae052757-7e56-4fd8-912d-1b4521563d58</webElementGuid>
+      <value>button</value>
+      <webElementGuid>12bd4364-c235-4d0a-a01b-32c80145f9d2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Login</value>
-      <webElementGuid>f0245486-75d5-4f6c-9792-56d1717ca2c3</webElementGuid>
+      <value>Ya (ENTER)</value>
+      <webElementGuid>d96c9ab0-4a11-46a4-bd01-46971d502d9c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;root&quot;)/section[@class=&quot;_containerLogin_1gz7r_43&quot;]/div[@class=&quot;_loginContainer_1gz7r_56&quot;]/form[1]/button[@class=&quot;_buttonLogin_1gz7r_117&quot;]</value>
-      <webElementGuid>d699ec23-4b1d-424c-bdd8-f45a7845f83a</webElementGuid>
+      <value>id(&quot;root&quot;)/section[@class=&quot;ant-layout layout css-p8cx3h&quot;]/main[@class=&quot;ant-layout-content&quot;]/div[@class=&quot;site-layout-content&quot;]/div[@class=&quot;_backDrop_xj5w5_1&quot;]/div[@class=&quot;_containerModal_xj5w5_29&quot;]/div[@class=&quot;_bottom_xj5w5_78&quot;]/div[1]/button[@class=&quot;ant-btn css-p8cx3h ant-btn-primary&quot;]/p[@class=&quot;button&quot;]</value>
+      <webElementGuid>19e97ba9-2521-4e77-aa3d-4b40b5bbb77f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='root']/section/div[2]/form/button</value>
-      <webElementGuid>3f2c288a-41c2-4560-b6e3-7b4be6ba3d2b</webElementGuid>
+      <value>//div[@id='root']/section/main/div/div[3]/div/div[2]/div/button[2]/p</value>
+      <webElementGuid>81c5cb2a-1aa7-422e-8f3a-48cdfd218e59</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::button[2]</value>
-      <webElementGuid>721f7880-90e6-4cd3-a961-70229a6266d3</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading'])[1]/following::p[4]</value>
+      <webElementGuid>ee72a22b-ca9e-4845-aac7-3dd2727c1519</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Username'])[1]/following::button[2]</value>
-      <webElementGuid>9e0c4817-9c77-4982-91b8-60e7bfeecf8b</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='COKLAT SUSU'])[1]/following::p[4]</value>
+      <webElementGuid>9866dce5-30bf-429e-888e-6e6112fb00ac</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Login']/parent::*</value>
-      <webElementGuid>cf6cce46-ac4f-41b8-8138-ed324cfd88a6</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Ya (ENTER)']/parent::*</value>
+      <webElementGuid>36284502-deef-4e92-97bc-5236e18406f1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//form/button</value>
-      <webElementGuid>e82c17d0-e2b1-4c06-a3d2-22747c2435ba</webElementGuid>
+      <value>//button[2]/p</value>
+      <webElementGuid>93e2c1fa-341a-4168-bf74-4d435ef50e14</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[(text() = 'Login' or . = 'Login')]</value>
-      <webElementGuid>8ee9ee19-0c00-4a29-affb-66010d6434d6</webElementGuid>
+      <value>//p[(text() = 'Ya (ENTER)' or . = 'Ya (ENTER)')]</value>
+      <webElementGuid>9fe8f457-025b-4601-b8da-13a917c5aed8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

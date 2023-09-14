@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Sudah Packing (F3)</name>
+   <tag></tag>
+   <elementGuidId>7050d77c-88cb-4d83-a6a9-c1b96504a43e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/section/header/div[2]/div[3]/button/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>091f543d-9dcb-4229-8004-beb899fac811</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e0d2c98e-fbb9-4cd6-a96d-6a312c4f90a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sudah Packing (F3)</value>
+      <webElementGuid>95e04b08-4b5e-4848-b95b-c81b88109010</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/section[@class=&quot;ant-layout layout css-p8cx3h&quot;]/header[@class=&quot;ant-layout-header _Header_thvex_433&quot;]/div[@class=&quot;ant-space css-p8cx3h ant-space-horizontal ant-space-align-center&quot;]/div[@class=&quot;ant-space-item&quot;]/button[@class=&quot;ant-btn css-p8cx3h ant-btn-default ant-btn-background-ghost&quot;]/p[@class=&quot;button&quot;]</value>
+      <webElementGuid>03ddfc16-3105-474f-a0de-a162854200de</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/section/header/div[2]/div[3]/button/p</value>
+      <webElementGuid>ad16c574-f413-4fed-adb5-3e4eb7f0090c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Packing Komplit'])[1]/following::p[3]</value>
+      <webElementGuid>c47cfd66-92bb-4446-a01d-e5819d27b842</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No Order'])[1]/preceding::p[2]</value>
+      <webElementGuid>88d87eae-05ce-4b5d-9272-cb14baa29c8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No Customer'])[1]/preceding::p[2]</value>
+      <webElementGuid>b8c37d9d-24bd-440e-8151-697794dbe803</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Sudah Packing (F3)']/parent::*</value>
+      <webElementGuid>4a9bbd42-6fb6-4e24-b3f3-73e143fdf7a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button/p</value>
+      <webElementGuid>c74245cf-b8c0-4ae1-be6a-224d3bcf35dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Sudah Packing (F3)' or . = 'Sudah Packing (F3)')]</value>
+      <webElementGuid>0f1c9f01-2b91-485b-8d0a-b7bf2e22e11d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
