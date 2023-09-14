@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div_root</name>
+   <name>Input Pencarian No Order</name>
    <tag></tag>
-   <elementGuidId>ecad27be-afca-4daf-b0e7-ebb033feab6a</elementGuidId>
+   <elementGuidId>dde2f968-ead0-4818-b812-b870fbe1b929</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -11,13 +11,9 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value></value>
-      </entry>
-      <entry>
-         <key>CSS</key>
-         <value>//body</value>
+         <value>//input[@class=&quot;ant-input ant-input-lg css-p8cx3h&quot;]</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>CSS</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
 </WebElementEntity>

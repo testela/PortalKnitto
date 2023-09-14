@@ -15,7 +15,7 @@
       <guid>26b4a6fa-ae93-4d1c-99a3-1fa77eb19a86</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Test Packing Web/Packing Order 1 Roll</testCaseId>
+      <testCaseId>Test Cases/Test Packing Web/Packing Order - Kumplit - 1 Roll</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
